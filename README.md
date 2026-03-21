@@ -14,6 +14,13 @@ Analytics system for payment platform processing transactions from 500+ merchant
 - Chargeback Analysis
 - Customer Retention
 
+## 🎯 Key Metrics 
+
+- Merchant Health Score
+- Fraud Risk Detection
+- Monthly Retention Rate
+- Chargeback Rate
+
 ## 🗂️ Project Structure
 ```
 merchant-payment-analytics/
@@ -25,12 +32,13 @@ merchant-payment-analytics/
     └── screenshots/     # Tableau dashboard
 ```
 
-## 🎯 Key Metrics 
+## Main Stages 
 
-- Merchant Health Score
-- Fraud Risk Detection
-- Monthly Retention Rate
-- Chargeback Rate
+- Usage of PostgreSQL
+- First stage of analytics
+- Second stage of analytics
+- Dashboard in Tableau
+ 
 
 ## 📈 Tech Stack
 
