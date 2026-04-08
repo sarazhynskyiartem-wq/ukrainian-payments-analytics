@@ -1,2 +1,2 @@
-# merchant-payment-analytics
-SQL-based analytics for payment platform. Status: Work in Progress
+# ukrainian-payments-analytics
+SQL-based analytics of Ukrainians' payment behavior in a war economy. Status: Work in Progress
