@@ -7,7 +7,7 @@
   <tr>
     <td width="300">
       <strong>ЧАСОВИЙ РЯД</strong><br>
-      <font size="6">6 років</font><br>
+      <font size="6">5 років</font><br>
       <sub>лют 2020 → груд 2025</sub>
     </td>
     <td width="300">
